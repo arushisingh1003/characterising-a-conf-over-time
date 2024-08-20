@@ -1,4 +1,4 @@
-# characterising-a-conf-over-time
+# Characterising a Conference(W4A) over Time
 
 The complete Python code utilised for the data analysis is present in the Charaterising a Conference over Time Jupyter notebook.
 
